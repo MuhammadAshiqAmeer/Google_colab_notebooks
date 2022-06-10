@@ -7,7 +7,8 @@ Projects and Colab worksheets of Python-programming, Deep learning for Computer-
 
 2)Advanced optimization technique:
     
-   - Implemented the Clonal selection algorithm for the optimization of Eight-Queen problem. The colab notebook of the same is available.
+   - Implemented the Clonal selection algorithm for the optimization of Eight-Queen problem. 
+   - The colab notebook of the same is available.
 
 3)Data analysis:
     
