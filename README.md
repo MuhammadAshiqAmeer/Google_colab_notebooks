@@ -26,3 +26,8 @@ Projects and Colab worksheets of Python-programming, Deep learning for Computer-
    - Implementation of gradient descent algorithm for 2 variables, which takes function,initial weights as input and outputs the correct updated weights.
    - Demonstration of different types of images and properties.
  
+6)Image processing:
+    
+    -LZ77,LZ78,LZW codings
+    -Huffmann , adaptive Huffmann, Shannon-fannno coding
+    
