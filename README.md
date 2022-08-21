@@ -29,5 +29,5 @@ Projects and Colab worksheets of Python-programming, Deep learning for Computer-
 6)Image processing:
     
     -LZ77,LZ78,LZW codings
-    -Huffmann , adaptive Huffmann, Shannon-fannno coding
+    -Huffmann , adaptive Huffmann, Shannon-fano coding
     
